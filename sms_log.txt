@@ -1,0 +1,7 @@
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
+Response: {"code":20,"error":"Access to the API is allowed only for premium accounts"}
